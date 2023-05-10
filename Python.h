@@ -1,7 +1,7 @@
 #ifndef Py_PYTHON_H
 #define Py_PYTHON_H
 /* Since this is a "meta-include" file, no #ifdef __cplusplus / extern "C" { */
-
+I have run and longed to escape the passion that burns inside of me but with each look into your eyes and each time I come close to you, I can’t fancy myself. Now to you have I fallen, that you will take me and love me as you wish.
 /* Include nearly all Python header files */
 
 #include "patchlevel.h"
