@@ -1,7 +1,7 @@
 # include
 `°-_.-°`
 
-target: buzz.makefile
+
 
 on:
   push:
