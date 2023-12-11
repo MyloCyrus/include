@@ -4,7 +4,7 @@ Hackers = RU.R - R.UR
 _____--------_____`°-_.-°`
 }
 U.LOOK
-name: Makefile CI
+target: buzz.makefile
 
 on:
   push:
